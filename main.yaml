@@ -1,0 +1,205 @@
+# main.yaml
+- use: ./preface.yaml
+- Route:
+  #- Starting position:
+  #  coord: [890.25, 131.28, 157.06]
+        - _Korok::C46:
+            notes: Rock Lift
+        - _Korok::C34:
+            notes: Matching Trees
+        - _Korok::C23:
+            notes: Hanging Acorn
+        - _Korok::C18:
+            notes: Moving Lights
+        - _Korok::C10:
+            notes: Circle of Rocks
+        - _Korok::C17:
+            notes: Rock Lift (Leaves)
+        - _Korok::C29:
+            notes: Stationary Lights
+        - _Korok::C28:
+            notes: Rock Lift (Door)
+        - _Korok::C33:
+            notes: Pinwheel Balloons
+        - _Korok::C32:
+            notes: Shoot the Crest
+        - _Korok::C35:
+            notes: Rock Lift
+        - _Korok::C31:
+            notes: Rock Lift
+        - _Korok::C26:
+            notes: Stationary Balloon
+        - _Korok::C22:
+            notes: Rock Pattern
+        - _Korok::C20:
+            notes: Rock Lift (Rock Pile)
+        - _Korok::C21:
+            notes: Rock Pattern
+        - _Korok::C14:
+            notes: Rock Lift
+        - _Korok::R19:
+            notes: Roll a Boulder
+        - _Korok::R26:
+            notes: Goal Ring (Race)
+        - _Korok::R27:
+            notes: Hanging Acorn
+        - _Korok::C24:
+            notes: Rock Lift
+        - _Korok::R44:
+            notes: Circle of Rocks
+        - _Korok::R43:
+            notes: Stationary Balloon
+        - _Korok::R42:
+            notes: Rock Lift
+        - _Korok::R48:
+            notes: Acorn in a Hole
+        - _Korok::R41:
+            notes: Flower Order
+        - _Korok::R38:
+            notes: Matching Trees
+        - _Korok::R47:
+            notes: Pinwheel Balloons
+        - _Korok::R56:
+            notes: Acorn in a Hole
+        - _Korok::R55:
+            notes: Rock Lift
+        - _Korok::R54:
+            notes: Stationary Lights
+        - _Korok::R53:
+            notes: Rock Lift (Rock Pile)
+        - _Korok::R62:
+            notes: Goal Ring (Race)
+        - _Korok::R60:
+            notes: Rock Lift (Leaves)
+        - _Korok::R51:
+            notes: Rock Pattern
+        - _Korok::R64:
+            notes: Rock Lift (Rock Pile)
+        - _Korok::R65:
+            notes: Flower Order
+        - _Korok::R66:
+            notes: Ball and Chain
+        - _Korok::R67:
+            notes: Circle of Rocks
+        - _Korok::R73:
+            notes: Roll a Boulder
+        - _Korok::R75:
+            notes: Hanging Acorn
+        - _Korok::R76:
+            notes: Rock Lift
+        - _Korok::R77:
+            notes: Hanging Acorn
+        - _Korok::R78:
+            notes: Offering Plate
+        - _Korok::R79:
+            notes: Offering Plate
+        - _Korok::R74:
+            notes: Rock Lift
+        - _Korok::C59:
+            notes: Circle of Rocks
+        - _Korok::C58:
+            notes: Ball and Chain
+        - _Korok::C66:
+            notes: Rock Pattern
+        - _Korok::C67:
+            notes: Rock Lift
+        - _Korok::C68:
+            notes: Hanging Acorn
+        - _Korok::C73:
+            notes: Goal Ring (Race)
+        - _Korok::C74:
+            notes: Rock Lift
+        - _Korok::C80:
+            notes: Acorn in a Hole
+        - _Korok::C79:
+            notes: Rock Lift
+        - _Korok::C81:
+            notes: Moving Lights
+        - _Korok::C82:
+            notes: Moving Lights
+        - _Korok::C83:
+            notes: Pinwheel Balloons
+        - _Korok::P02:
+            notes: Ball and Chain
+        - _Korok::P01:
+            notes: Rock Lift
+        - _Korok::P05:
+            notes: Rock Lift (Leaves)
+        - _Korok::P06:
+            notes: Rock Lift
+        - _Korok::P09:
+            notes: Stationary Lights
+        - _Korok::P08:
+            notes: Stationary Lights
+        - _Korok::C89:
+            notes: Circle of Rocks
+        - _Korok::C87:
+            notes: Circle of Rocks
+        - _Korok::C86:
+            notes: Rock Lift
+        - _Korok::R80:
+            notes: Rock Lift
+        - _Korok::C85:
+            notes: Rock Lift
+        - _Korok::C78:
+            notes: Rock Lift
+        - _Korok::C72:
+            notes: Pinwheel Acorns
+        - _Korok::C57:
+            notes: Acorn in a Hole
+        - _Korok::C52:
+            notes: Rock Lift
+        - _Korok::R58:
+            notes: Rock Lift
+        - _Korok::C36:
+            notes: Rock Lift
+        - _Korok::C39:
+            notes: Stationary Lights
+        - _Korok::C48:
+            notes: Rock Lift
+        - _Korok::C40:
+            notes: Moving Lights
+        - _Korok::C41:
+            notes: Acorn in a Hole
+        - _Korok::C42:
+            notes: Stationary Balloon
+        - _Korok::C43:
+            notes: Pinwheel Acorns
+        - _Korok::C49:
+            notes: Hanging Acorn
+        - _Korok::C55:
+            notes: Moving Lights
+        - _Korok::C64:
+            notes: Moving Lights
+        - _Korok::C70:
+            notes: Rock Pattern
+        - _Korok::C71:
+            notes: Rock Lift
+        - _Korok::C77:
+            notes: Pinwheel Balloons
+        - _Korok::D14:
+            notes: Hanging Acorn
+        - _Korok::D22:
+            notes: Rock Lift (Boulder)
+        - _Korok::D27:
+            notes: Rock Lift
+        - _Korok::D34:
+            notes: Rock Lift
+        - _Korok::D35:
+            notes: Pinwheel Balloons
+        - _Korok::L01:
+            notes: Ball and Chain
+        - _Korok::L02:
+            notes: Rock Lift
+        - _Korok::L04:
+            notes: Ball and Chain
+        - _Korok::D45:
+            notes: Stationary Lights
+        - _Korok::D44:
+            notes: Rock Lift
+        - _Korok::D31:
+            notes: Roll a Boulder
+        - _Korok::D32:
+            notes: Circle of Rocks
+        - _Korok::D26:
+            notes: Stationary Lights
